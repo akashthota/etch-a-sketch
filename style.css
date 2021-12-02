@@ -5,13 +5,12 @@
     align-items: center;
     justify-content: flex-start;
     width: 100%;
- 
     gap: 10px;
 }
 .grid{
     margin-top: -8px;
-    width: 600px;
-    height: 600px;
+    width: 500px;
+    height: 500px;
     display: grid;
     margin-bottom: 8px;
 
@@ -57,4 +56,8 @@ input[type="range"] {
     background: black;
     width: 70%;
     fill: aquamarine;
+}
+a{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 12px;
 }
